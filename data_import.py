@@ -10,3 +10,6 @@ text_file.write(qr_code_scan)
  
 #close file
 text_file.close()
+
+
+
