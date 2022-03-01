@@ -1,0 +1,13 @@
+s=gd;e=2022flwp;l=qm;m=14;r=b2;t=4567;as=[44];at=Y;au=1;al=0;ac=N;tu=0;tl=0;tm=1;tn=0;wd=N;ss=[44,57];c=f;be=Y;cn=0;dr=v;d=Y;to=N;cf=Y;co=matt is awesome
+
+s=gd;e=2022flwp;l=qm;m=17;r=b3;t=3456;as=[29];at=Y;au=1;al=0;ac=Y;tu=1;tl=1;tm=0;tn=0;wd=Y;cl=g;ss=[44,34];c=4;be=Y;cn=1;ds=v;dr=v;d=Y;to=N;cf=N;co=matt is ok
+
+s=gd;e=2022flwp;l=qm;m=20;r=b3;t=4657;as=[21];at=Y;au=0;al=2;ac=Y;tu=2;tl=1;tm=0;tn=0;wd=N;cl=t;ss=[44,20];c=1;be=Y;cn=1;ds=v;dr=n;d=Y;to=N;cf=N;co=ehh
+
+s=gd;e=2022flwp;l=qm;m=25;r=r1;t=4930;as=[42];at=Y;au=1;al=1;ac=Y;tu=5;tl=0;tm=2;tn=0;wd=N;cl=g;ss=[33,46];c=4;be=Y;cn=1;ds=x;dr=a;d=N;to=Y;cf=N;co=rkj
+
+s=gd;e=2022flwp;l=qm;m=29;r=b3;t=1023;as=[28];at=N;au=2;al=0;ac=Y;tu=5;tl=1;tm=3;tn=1;wd=N;cl=t;ss=[8];c=3;be=Y;cn=1;ds=a;dr=a;d=N;to=N;cf=N;co=
+
+s=gd;e=2022flwp;l=qm;m=32;r=b1;t=1023;as=[45];at=Y;au=1;al=1;ac=N;tu=4;tl=2;tm=5;tn=1;wd=Y;cl=b;ss=[28];c=2;be=N;cn=2;ds=n;dr=a;d=N;to=N;cf=Y;co=
+
+Scouter Name, Event, Match #, Driver Location, Team #, Preload, Start Location, Leave Tarmac, High Goal A, Low Goal A, Cargo Missed A, Cargo Acquired, HP High, HP Low, HP Missed, High Goal T, Low Goal T, High Cargo Missed, Low Cargo Missed, Defended, Cargo Loading, Shooting Spot, Climb, Climb Before Endgame, # Robots Climbed, Driver Skill, Defense Rating, Died, Tipped, Card Foul,Comments
